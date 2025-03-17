@@ -5,5 +5,5 @@ Author - <b>
 Sourav Gorai.
 <br>
 Keya is my Project partner. Her nickname is Khepi. 
-<area>
-lock
+<bdo>
+lock to the right
