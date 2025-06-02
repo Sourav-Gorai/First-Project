@@ -4,6 +4,4 @@ This is my First Repository.
 Author - <b>
 Sourav Gorai.
 <br>
-Keya is my Project partner. Her nickname is Khepi. 
-<bdo>
-lock to the right
+
